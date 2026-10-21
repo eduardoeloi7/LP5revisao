@@ -1,0 +1,9 @@
+id_cliente,pais,observacoes,idade,cidade,escolaridade,comprou
+101,Brasil,,24,São Paulo,Médio,0
+102,Brasil,,,"Rio de Janeiro",Graduação,1
+103,Brasil,VIP,35,Curitiba,Pós,1
+104,Brasil,,48,São Paulo,Graduação,0
+105,Brasil,,22,,Médio,0
+106,Brasil,,50,"Rio de Janeiro",Pós,1
+107,Brasil,,31,Curitiba,Graduação,1
+107,Brasil,,31,Curitiba,Graduação,1
