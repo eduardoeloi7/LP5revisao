@@ -1,2 +1,3 @@
 # LP5revisao
-aula de usabilidade do git hub desktop
+- aulas de usabilidade do git hub desktop
+- atividades de análise de dados com python pandas e matplotlib
